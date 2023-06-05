@@ -1,0 +1,55 @@
+@charset "utf-8";
+@import url(href=https://fonts.googleapis.com/css2?family=Saira+Condensed);
+@import url(nhref=https://fonts.googleapis.com/css2?family=Lilita+One&family=Saira+Condensed);
+
+#letra_m{
+  text-align: center;
+  color: rgb(215, 165, 138);
+  font-size: 50px;
+  font-weight: 700;
+  font-family: 'Lilita One', cursive;
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+#letra_h{
+  text-align: center;
+  color: rgb(103, 142, 95);
+  font-size: 50px;
+  font-weight: 700;
+  font-family: 'Lilita One', cursive;
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+#color_h{
+  background-color: rgba(103, 142, 95,0.3);
+}
+
+
+#color{
+  background-color: rgba(215, 165, 138,0.3);
+}
+
+#btn{
+  background-color: rgb(215, 165, 138);
+  color: white;
+  font-weight: bold;
+  margin: 0 auto;
+  font-family: 'Saira Condensed', sans-serif; 
+}
+
+#btn_h{
+  background-color: rgb(103, 142, 95);
+  color: white;
+  font-weight: bold;
+  margin: 0 auto; 
+  font-family: 'Saira Condensed', sans-serif;
+}
+
+.centro{
+  display: flex;
+  justify-content: center;
+}
+
+.text_desc{
+  font-family: 'Saira Condensed', sans-serif;
+}
